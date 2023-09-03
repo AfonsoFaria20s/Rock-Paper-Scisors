@@ -3,7 +3,7 @@ This is a simple console game of Rock Paper Scisors built using python.
 
 Not a perfect program, i just entertained myself doing this.
 
-#How to Start
+# How to Start
 
 First, make sure you have the right python and pip versions:
   - Python v3.11.5 -> https://www.python.org/downloads/release/python-3115/
